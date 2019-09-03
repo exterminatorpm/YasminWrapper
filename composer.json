@@ -1,0 +1,21 @@
+{
+	"name": "twisted/yasminwrapper",
+	"description": "A PHP library which wraps around Yasmin to add features!",
+	"type": "library",
+	"license": "Apache-2.0",
+	"authors": [
+		{
+			"name": "Twisted",
+			"email": "contact@twistedasylummc.me"
+		}
+	],
+	"minimum-stability": "stable",
+	"require": {
+		"charlottedunois/yasmin": "^0.6.1"
+	},
+	"autoload": {
+		"psr-4": {
+			"Twisted\\YasminWrapper\\": "src"
+		}
+	}
+}
