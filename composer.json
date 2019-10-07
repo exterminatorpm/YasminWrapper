@@ -9,7 +9,6 @@
 			"email": "contact@twistedasylummc.me"
 		}
 	],
-	"minimum-stability": "stable",
 	"require": {
 		"charlottedunois/yasmin": "^0.6.1"
 	},
