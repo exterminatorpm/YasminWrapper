@@ -6,7 +6,7 @@ Read [Before you start](https://github.com/CharlotteDunois/Yasmin#before-you-sta
 
 ## Getting Started
 ```
-composer require twistedasylummc/yasminwrapper
+composer require twisted/yasminwrapper
 ```
 Read [Before you start](https://github.com/CharlotteDunois/Yasmin#getting-started) from Yasmin.
 
