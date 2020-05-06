@@ -1,5 +1,5 @@
 {
-	"name": "twisted/yasminwrapper2",
+	"name": "ex/yasminwrapper",
 	"description": "A PHP library which wraps around Yasmin to add features!",
 	"type": "library",
 	"license": "Apache-2.0",
@@ -10,7 +10,7 @@
 		}
 	],
 	"require": {
-		"laravel-discord/yasmin": "^0.6.1"
+		"laravel-discord/yasmin": "^0.8.2"
 	},
 	"autoload": {
 		"psr-4": {
