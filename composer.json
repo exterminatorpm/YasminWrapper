@@ -1,5 +1,5 @@
 {
-	"name": "twisted/yasminwrapper",
+	"name": "twisted/yasminwrapper2",
 	"description": "A PHP library which wraps around Yasmin to add features!",
 	"type": "library",
 	"license": "Apache-2.0",
