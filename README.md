@@ -6,7 +6,7 @@ Read [Before you start](https://github.com/laravel-discord/Yasmin#before-you-sta
 
 ## Getting Started
 ```
-composer require twisted/yasminwrapper
+composer require exterminatorpm/yasminwrapper
 ```
 Read [Before you start](https://github.com/laravel-discord/Yasmin#getting-started) from Yasmin.
 
