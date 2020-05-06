@@ -10,7 +10,7 @@
 		}
 	],
 	"require": {
-		"charlottedunois/yasmin": "^0.6.1"
+		"laravel-discord/yasmin": "^0.6.1"
 	},
 	"autoload": {
 		"psr-4": {
