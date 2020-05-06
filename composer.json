@@ -1,5 +1,5 @@
 {
-	"name": "ex/yasminwrapper",
+	"name": "exterminatorpm/yasminwrapper",
 	"description": "A PHP library which wraps around Yasmin to add features!",
 	"type": "library",
 	"license": "Apache-2.0",
